@@ -72,12 +72,12 @@ ProjectName/
 
 Penjelasan Struktur Folder:
 
-01_Project_Description/: Berisi dokumen deskripsi project, seperti persyaratan, timeline, dan catatan penting.
-02_Research_and_References/: Tempat menyimpan semua referensi dan bahan riset yang relevan.
-03_Planning/: Berisi perencanaan awal seperti wireframes, mockups, dan sitemaps.
-04_Development/: Folder utama untuk kode sumber project, terbagi dalam backend, frontend, dan database.
-05_Assets/: Berisi semua aset media yang digunakan dalam project seperti gambar, video, dan font.
-06_Documents/: Tempat menyimpan dokumen administratif seperti kontrak, faktur, dan laporan.
-07_Communication/: Menyimpan catatan komunikasi, termasuk email, log obrolan, dan catatan rapat.
-08_Final_Deliverables/: Berisi hasil akhir yang akan diserahkan ke klien, dengan versi yang berbeda jika diperlukan.
-README.md: Dokumen ini memberikan gambaran umum tentang project, petunjuk penggunaan, dan informasi penting lainnya.
+- 01_Project_Description/: Berisi dokumen deskripsi project, seperti persyaratan, timeline, dan catatan penting.
+- 02_Research_and_References/: Tempat menyimpan semua referensi dan bahan riset yang relevan.
+- 03_Planning/: Berisi perencanaan awal seperti wireframes, mockups, dan sitemaps.
+- 04_Development/: Folder utama untuk kode sumber project, terbagi dalam backend, frontend, dan database.
+- 05_Assets/: Berisi semua aset media yang digunakan dalam project seperti gambar, video, dan font.
+- 06_Documents/: Tempat menyimpan dokumen administratif seperti kontrak, faktur, dan laporan.
+- 07_Communication/: Menyimpan catatan komunikasi, termasuk email, log obrolan, dan catatan rapat.
+- 08_Final_Deliverables/: Berisi hasil akhir yang akan diserahkan ke klien, dengan versi yang berbeda jika diperlukan.
+- README.md: Dokumen ini memberikan gambaran umum tentang project, petunjuk penggunaan, dan informasi penting lainnya.
